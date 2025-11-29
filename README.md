@@ -35,7 +35,3 @@ scikit-learn
 Matplotlib
 Seaborn
 Jupyter Notebook
-
-
-
-If you want, I can also create a **more stylish GitHub profile README**, or a **project-specific README** for your bike demand notebook.
